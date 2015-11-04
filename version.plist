@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>177</string>
+	<string>266</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.1</string>
 	<key>CFBundleVersion</key>
@@ -11,6 +11,6 @@
 	<key>ProjectName</key>
 	<string>Matador</string>
 	<key>SourceVersion</key>
-	<string>1213400</string>
+	<string>1213600</string>
 </dict>
 </plist>
